@@ -1,0 +1,5 @@
+2022/06/13-19:05:47.084 5 Reusing MANIFEST /home/araujobarros/Meliuz/lighthouseAudit/without-extension/Profile 4/Local Storage/leveldb/MANIFEST-000001
+2022/06/13-19:05:47.086 5 Recovering log #3
+2022/06/13-19:05:47.087 5 Level-0 table #3: started
+2022/06/13-19:05:47.095 5 Level-0 table #3: 16236 bytes OK
+2022/06/13-19:05:47.107 5 Delete type=0 #3

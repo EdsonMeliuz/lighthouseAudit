@@ -1,0 +1,1229 @@
+[664068:664103:0613/144428.004354:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-117906429072440985174
+[664068:664103:0613/144428.004381:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-108934633869927255630
+
+DevTools listening on ws://127.0.0.1:43417/devtools/browser/9f1ce9ea-fb44-4e6d-95d6-c8650450a76d
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:664068): Gtk-WARNING **: 14:44:28.053: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+[664068:664095:0613/144433.111523:ERROR:gcm_store_impl.cc(953)] Failed to restore security token.
+[664068:664096:0613/144433.680922:ERROR:registration_request.cc(264)] Registration response error message: PHONE_REGISTRATION_ERROR
+[664068:664096:0613/144433.683474:ERROR:registration_request.cc(264)] Registration response error message: PHONE_REGISTRATION_ERROR
+[664068:664096:0613/144433.755054:ERROR:registration_request.cc(264)] Registration response error message: PHONE_REGISTRATION_ERROR
+[664068:664096:0613/144434.505533:ERROR:mcs_client.cc(707)]   Error code: 500  Error message: Cannot parse data.
+[664068:664096:0613/144434.505549:ERROR:mcs_client.cc(709)] Failed to log in to GCM, resetting connection.
+[674499:674536:0613/150008.515354:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-117906429072440985174
+[674499:674536:0613/150008.515395:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-108934633869927255630
+
+DevTools listening on ws://127.0.0.1:44745/devtools/browser/35d69cf3-b9ab-48bb-95e8-29a9751b990c
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:674499): Gtk-WARNING **: 15:00:08.617: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+[674499:674499:0613/150009.361487:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+[675252:675288:0613/150035.108568:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-117906429072440985174
+[675252:675288:0613/150035.108597:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-108934633869927255630
+
+DevTools listening on ws://127.0.0.1:40423/devtools/browser/3b5322d2-3f98-4ffc-873a-9cda1c9e6657
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:675252): Gtk-WARNING **: 15:00:35.160: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:37641/devtools/browser/d1e03d98-fb6b-4421-ba15-bd36361d5006
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:675605): Gtk-WARNING **: 15:00:52.935: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:46511/devtools/browser/7773620a-a7bb-4fb9-813a-7e249eca3279
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.740: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:676000): Gtk-WARNING **: 15:01:12.741: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:39527/devtools/browser/9e125b63-1459-4b10-afa2-d7e57f955581
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:677931): Gtk-WARNING **: 15:07:34.467: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:39753/devtools/browser/ac1f17d7-a312-4571-bdd5-1b675f47cfab
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:678419): Gtk-WARNING **: 15:08:44.988: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:37709/devtools/browser/b50318cf-e00f-4604-947d-c0a973902f47
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.882: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.883: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.883: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.883: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:679146): Gtk-WARNING **: 15:09:46.883: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:44039/devtools/browser/2809a9d6-d588-4685-a180-7fcab1bf2de5
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.432: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.432: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.432: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:679634): Gtk-WARNING **: 15:10:21.434: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:36479/devtools/browser/38e24d23-911f-4176-8843-455add16ab12
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:681999): Gtk-WARNING **: 15:21:50.353: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+DevTools listening on ws://127.0.0.1:43777/devtools/browser/3666423f-22fe-4131-abac-269a090891ac
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:682520): Gtk-WARNING **: 15:22:37.111: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:41853/devtools/browser/e1e3f486-62f7-4292-81c7-7f5d26330b66
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.293: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.293: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.293: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.293: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.293: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.293: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.293: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.294: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.294: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.294: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.294: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:683012): Gtk-WARNING **: 15:23:11.294: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+[683012:683049:0613/152329.904351:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-107937523998573101255
+[683012:683040:0613/152329.971927:ERROR:gcm_store_impl.cc(953)] Failed to restore security token.
+[683012:683012:0613/152331.293264:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+[683012:683012:0613/152331.294176:ERROR:object_proxy.cc(623)] Failed to call method: org.gnome.ScreenSaver.GetActive: object_path= /: org.freedesktop.DBus.Error.UnknownMethod: Nenhuma interface “org.gnome.ScreenSaver” no objeto no caminho /
+[683012:683041:0613/152331.405086:ERROR:registration_request.cc(264)] Registration response error message: PHONE_REGISTRATION_ERROR
+[683012:683041:0613/152331.406916:ERROR:registration_request.cc(264)] Registration response error message: PHONE_REGISTRATION_ERROR
+[683012:683041:0613/152331.409504:ERROR:registration_request.cc(264)] Registration response error message: PHONE_REGISTRATION_ERROR
+[683012:683041:0613/152331.542964:ERROR:mcs_client.cc(707)]   Error code: 500  Error message: Cannot parse data.
+[683012:683041:0613/152331.542979:ERROR:mcs_client.cc(709)] Failed to log in to GCM, resetting connection.
+[683012:683049:0613/152404.089054:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-107937523998573101255
+[683012:683049:0613/152502.127239:ERROR:token_service_table.cc(139)] Failed to decrypt token for service AccountId-107937523998573101255
+
+DevTools listening on ws://127.0.0.1:37055/devtools/browser/4a6ea8e7-907f-425c-b211-3578cbd71362
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:684362): Gtk-WARNING **: 15:25:30.819: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:34549/devtools/browser/d0ae14dd-b3b1-4ec1-be2a-e8d06f0245d2
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:684839): Gtk-WARNING **: 15:26:06.860: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+[684839:684839:0613/152654.961055:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+DevTools listening on ws://127.0.0.1:35769/devtools/browser/d3925b72-beb1-4dda-abc4-ed08f0843a35
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:685556): Gtk-WARNING **: 15:27:16.586: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:39743/devtools/browser/1b7ef4ee-7857-40c4-8cd8-f0cfcfd926f3
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:686173): Gtk-WARNING **: 15:29:07.975: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:46793/devtools/browser/838ed7fb-a78f-4b30-ba20-11131026b158
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.880: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.881: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:688536): Gtk-WARNING **: 15:35:05.881: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+[688536:688536:0613/153507.985136:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+DevTools listening on ws://127.0.0.1:39201/devtools/browser/592f54a5-3466-4c7b-81da-c5b7b8b68a33
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.492: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.493: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.493: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:689220): Gtk-WARNING **: 15:38:05.493: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:44021/devtools/browser/9e855e34-216a-4014-84ec-b96a2a4847ca
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:692539): Gtk-WARNING **: 15:58:39.040: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:36435/devtools/browser/fe0f4467-40a7-481e-8c35-7436a70f8dc6
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.101: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:694059): Gtk-WARNING **: 16:01:52.102: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:37579/devtools/browser/9f42a388-a7c8-4d79-9ef0-a87bf4b6d650
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:695420): Gtk-WARNING **: 16:05:30.602: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:46835/devtools/browser/2d3ef96e-cdc1-42a1-8ab7-3d396d4769c6
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:696787): Gtk-WARNING **: 16:08:48.955: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:33361/devtools/browser/4b607c41-33b4-4484-a60d-8c7cb31d8a9c
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:698100): Gtk-WARNING **: 16:12:27.164: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:44889/devtools/browser/21372209-8660-431b-94ab-90a1ee0cb2a6
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:699415): Gtk-WARNING **: 16:14:54.549: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:35617/devtools/browser/a523ad52-83e0-47bb-b641-3c8d7435644e
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.152: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.152: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.152: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.152: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.152: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.152: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.153: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.153: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.153: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.153: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.153: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:700607): Gtk-WARNING **: 16:17:42.153: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:35549/devtools/browser/9d6afd99-82b2-4538-8092-b1d3bf490d4f
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:701686): Gtk-WARNING **: 16:19:15.009: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:42901/devtools/browser/9837c591-5718-4c61-ae75-169100d4e4d1
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:706104): Gtk-WARNING **: 16:40:33.094: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:33889/devtools/browser/ba7982c3-4930-4263-bbe6-f03e984fd363
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.773: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:706705): Gtk-WARNING **: 16:41:08.774: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:34871/devtools/browser/d8ebf868-06a1-4de0-8d1d-8fd07e3a9246
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:708197): Gtk-WARNING **: 16:43:54.333: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+DevTools listening on ws://127.0.0.1:45335/devtools/browser/3b2e1627-c8be-4bcd-a3af-ba93a0df7187
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:709579): Gtk-WARNING **: 16:49:21.017: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:44341/devtools/browser/3c86b8c3-7107-4dd3-8573-0a7b6916ddd1
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.456: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.456: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.456: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.456: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.456: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.457: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.457: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.457: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.457: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.457: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.457: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:710809): Gtk-WARNING **: 16:54:48.457: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:37327/devtools/browser/413a3236-cdd0-44ea-9f5d-57e96ac6c627
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:711706): Gtk-WARNING **: 16:56:45.269: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+DevTools listening on ws://127.0.0.1:44905/devtools/browser/2cfb2c69-fe59-4e48-becc-b2b196ef2c53
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.294: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.294: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.294: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.294: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.294: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.294: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.294: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.295: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.295: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.295: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.295: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:712504): Gtk-WARNING **: 16:57:43.295: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:38763/devtools/browser/baf51a3e-91dc-43eb-952d-42303c94bf81
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:713916): Gtk-WARNING **: 17:04:02.207: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+DevTools listening on ws://127.0.0.1:35687/devtools/browser/3ebcf8f9-65fc-4012-92de-e203b166244c
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.754: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.754: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:714929): Gtk-WARNING **: 17:04:42.755: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:42893/devtools/browser/51e88384-1689-455f-a69c-48c616c4548f
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:720801): Gtk-WARNING **: 18:17:35.641: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:35797/devtools/browser/324f31b6-3eb9-4b31-b573-b322fd4a0b24
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:721280): Gtk-WARNING **: 18:18:22.131: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:40795/devtools/browser/fdf6458c-40ba-49c6-914c-19c04202c972
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.372: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.372: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.372: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.372: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.372: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.372: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.372: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.373: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.373: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.373: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.373: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:726648): Gtk-WARNING **: 18:58:37.373: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:41627/devtools/browser/8cb34f4b-b7fc-493e-b20d-b12468ef940b
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:727666): Gtk-WARNING **: 19:01:48.781: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:39877/devtools/browser/140a8add-5a7d-4a9e-aee9-b0f2d5d477ec
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:728658): Gtk-WARNING **: 19:04:11.950: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+
+DevTools listening on ws://127.0.0.1:33281/devtools/browser/dc6fd149-4826-40ce-bfc9-f06f17cba0b6
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.117: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.117: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.117: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.117: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.117: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.117: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.118: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.118: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.118: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.118: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.118: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:729630): Gtk-WARNING **: 19:05:47.118: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+DevTools listening on ws://127.0.0.1:34051/devtools/browser/1c04ed66-5b59-4f09-9a20-c26efeadc58e
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: include in Compose files not supported: include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "Ə" U018f: <Multi_key> <e> <e> 			: "Ə" U018f
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <backslash> 	: "〝" U301d	# REVERSED DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "〞" U301e	# DOUBLE PRIME QUOTATION MARK: <Multi_key> <quotedbl> <slash>  	: "〞" U301e	# DOUBLE PRIME QUOTATION MARK
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA: <dead_acute> <C> 			: "Ç" Ccedilla	# LATIN CAPITAL LETTER C WITH CEDILLA
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA: <dead_acute> <c> 			: "ç" ccedilla	# LATIN SMALL LETTER C WITH CEDILLA
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA: <Multi_key> <comma> <E> 		: "Ȩ" U0228	# LATIN CAPITAL LETTER E WITH CEDILLA
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA: <Multi_key> <comma> <e> 		: "ȩ" U0229	# LATIN SMALL LETTER E WITH CEDILLA
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <E> 		: "Ḝ" U1E1C	# LATIN CAPITAL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE: <Multi_key> <U> <comma> <e> 		: "ḝ" U1E1D	# LATIN SMALL LETTER E WITH CEDILLA AND BREVE
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <acute> <U03D2> 		: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+
+(google-chrome-stable:730875): Gtk-WARNING **: 19:08:55.967: Need to double-quote the value: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL: <Multi_key> <apostrophe> <U03D2> 	: "ϓ" U03D3	# GREEK UPSILON WITH ACUTE AND HOOK SYMBOL
+mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
+mesa: for the --global-isel-abort option: may only occur zero or one times!
+mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!

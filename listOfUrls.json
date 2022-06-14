@@ -1,0 +1,10 @@
+[ 
+  {
+    "url": " https://www.booking.com",
+    "dir": "with-extension"
+  },
+  {
+    "url": " https://www.booking.com",
+    "dir": "without-extension"
+  }
+]
