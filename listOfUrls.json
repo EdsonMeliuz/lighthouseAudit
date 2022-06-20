@@ -1,10 +1,12 @@
-[ 
+[   
   {
     "url": " https://www.booking.com",
-    "dir": "with-extension"
+    "dir": "without-extension",
+    "path": "booking.com/lighthouse-without-extension-report.json"
   },
   {
     "url": " https://www.booking.com",
-    "dir": "without-extension"
+    "dir": "with-extension",
+    "path": "booking.com/lighthouse-with-extension-report.json"
   }
 ]
