@@ -1,12 +1,22 @@
 [   
   {
-    "url": " https://www.booking.com",
+    "url": "https://www.booking.com",
     "dir": "without-extension",
     "path": "booking.com/lighthouse-without-extension-report.json"
   },
   {
-    "url": " https://www.booking.com",
+    "url": "https://www.booking.com",
     "dir": "with-extension",
     "path": "booking.com/lighthouse-with-extension-report.json"
+  },
+  {
+    "url": "https://www.godaddy.com",
+    "dir": "without-extension",
+    "path": "godaddy.com/lighthouse-without-extension-report.json"
+  },
+  {
+    "url": "https://www.godaddy.com",
+    "dir": "with-extension",
+    "path": "godaddy.com/lighthouse-with-extension-report.json"
   }
 ]

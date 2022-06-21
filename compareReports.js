@@ -22,20 +22,36 @@ const checkExists = async (pathStr1, pathStr2) => {
      const without = await getContents(pathStr1)
      const withExtension = await getContents(pathStr2)
      compareReports(without, withExtension)
+     fs.unlinkSync(pathStr1);
+     fs.unlinkSync(pathStr2);
   }
 }
 
 const compareReports = (without, withExtension) => {
   console.log('compareReports');
 
-  const metricFilter = Object.values(without["audits"])
+  const metricFilter = Object.values(withExtension["audits"])
   .filter( (auditObj) => auditObj["numericValue"] && auditObj["numericUnit"] === "millisecond" )
   .map(({id}) => id)
   console.log(metricFilter)
 
   const calcPercentageDiff = (without, withExtension) => {
-    const per = ((withExtension - without) / without) * 100;
-    return Math.round(per * 100) / 100;
+    // let result
+    // let unit
+    
+    const per = ((without - withExtension ) / without) ;
+    result = Math.round(per * 100) / 100;
+    // unit = 'percentageRate'
+
+    if (!without) {
+      result = -withExtension
+      // unit = 'ms'
+    }
+    // return {
+    //   result,
+    //   unit
+    // }
+    return result
   };
 
   for (let auditObj in without["audits"]) {
@@ -47,19 +63,21 @@ const compareReports = (without, withExtension) => {
 
       let logColor = "\x1b[37m";
       const log = (() => {
-        if (Math.sign(percentageDiff) === 1) {
-          logColor = "\x1b[31m";
-          return `${percentageDiff.toString().replace("-", "") + "%"} slower`;
+        if (Math.sign(percentageDiff) === -1) {
+          logColor = "\x1b[31m";          
+          return percentageDiff;          
         } else if (Math.sign(percentageDiff) === 0) {
           return "unchanged";
         } else {
           logColor = "\x1b[32m";
-          return `${percentageDiff.toString().replace("-", "") + "%"} faster`;
-        }
+          return percentageDiff;
+        }        
       })();
-      console.log(logColor, `${without["audits"][auditObj].title} is ${log}`);
+
+      console.log(logColor, `${without["audits"][auditObj].id}: ${log}`);      
     }
   }
+  console.log("\x1b[37m", '...');
 };
 
 const exec = async () => {

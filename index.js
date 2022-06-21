@@ -1,55 +1,51 @@
-// Main lighthouse runner / fn
-const lighthouse = require('lighthouse');
+#!/usr/bin/env node
 
-// Required for launching chrome instance
-const chromeLauncher = require('chrome-launcher');
-
-// So we can save output
-const fs = require("fs");
-
+const {execSync, exec, spawn} = require('child_process');
+let urls = require('./listOfUrls.json'); // O arquivo onde sua lista de urls reside 
 const argv = require('yargs').argv;
 
-const diagnostic = async (url, profile) => {
-    // Launch instance of Chrome
-    console.log('diagnostic')
-    const newFlags = chromeLauncher.Launcher.defaultFlags().filter(flag => flag !== '--disable-extensions');
-    const chrome = await chromeLauncher.launch({
-      ignoreDefaultFlags: true,
-      chromeFlags: newFlags,
-      userDataDir: profile,
-    });
+const getReport = async() => {
+  let runs = 0;
+  urls
+  .filter(({url}) => url.includes(argv.url))
+  .forEach(({url, dir}) => {
+    console.log(`Executando teste de desempenho ${runs + 1}`); // Registra isso no console antes de iniciar
+    try { 
+      const reportProcess = exec(`node getReport.js --url ${url} --dir ${dir}`); // Executa isso na linha de comando para executar o teste de desempenho 
 
-    // Gather results and report from Lighthouse
-    const results = await lighthouse(url, {
-        port: chrome.port,
-        output: 'json',
-    }, {
-        extends: 'lighthouse:default',
-        settings: {
-            onlyCategories: ['performance'],
-        }
-    });
-
-    // Save report to fil
-    const urlObj = new URL(url);
-    let dirName = urlObj.host.replace("www.", "");
-    if (urlObj.pathname !== "/") {
-      dirName = dirName + urlObj.pathname.replace(/\//g, "_");
+      reportProcess.stdout.on('data', function(data) {
+        console.log(data); 
+      })
     }
-    if (!fs.existsSync(dirName)) {
-      fs.mkdirSync(dirName);
+    catch(err) { 
+      console.log(`Teste de desempenho ${runs + 1} failed`); // Se o Lighthouse falhar, ele registrará isso no console e registrará a mensagem de erro 
     }
 
-    await fs.writeFile(
-      `./${dirName}/lighthouse-${profile}-report.json`,
-      results.report,
-      err => {
-        if (err) throw err;
-      });
+    console.log(`Finished running performance test ${runs + 1}`); // Registra isso no console logo após concluir a execução de cada teste de desempenho
+    runs++;
+  });
+}
 
-    // Kill Chrome
-    await chrome.kill();
+const compareReport = async () => {
+  const urlsFiltered = urls.filter(({path}) => path.includes(argv.url.replace("https://www.", "")))
+  try { 
+    console.log('bloco try',argv.url, urlsFiltered)
+    execSync(`node compareReports.js --without ${urlsFiltered[0].path} --withExtension ${urlsFiltered[1].path}`, {stdio: 'inherit'});
+    // const compareProcess = exec(`node compareReports.js --without ${urlsFiltered[0].path} --withExtension ${urlsFiltered[1].path}`);
     
-};
+    // compareProcess.stdout.on('data', function(data) {
+    //   console.log(data); 
+    // })
 
-diagnostic(argv.url, argv.dir)
+  }
+  catch(err) { 
+    console.log(`Comparação failed`);
+  }
+}
+
+const init = async() => {
+  await getReport();
+  await compareReport();
+}
+
+init();

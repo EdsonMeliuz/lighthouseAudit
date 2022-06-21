@@ -1,48 +1,42 @@
 #!/usr/bin/env node
 
-const {execSync, exec, spawn} = require('child_process');
-let urls = require('./listOfUrls.json'); // O arquivo onde sua lista de urls reside 
+const {execSync, exec} = require('child_process');
+const { argv } = require('yargs');
+let urls = require('./listOfUrls.json');
+
+let runs = 0;
+let runLimit = argv.times || 1; // Change this to be the number of performance tests you want to do
+do {
+    console.log(`Starting performance test ${runs + 1}`); // Logs this to the console just before it kicks off
+    try {
+      const urlsMaped = urls.map(({url}) => url);
+      const urlsFiltered = urlsMaped.filter((urlObject, index) => urlsMaped.indexOf(urlObject) === index)
+      
+      console.log('urlsFiltered', urlsFiltered);
+
+      if (!argv.url) {
+        urlsFiltered.forEach(url => {
+          execSync(`./index.js --url ${url}`, {stdio: 'inherit'});
+        });
+        return
+      }
 
 
-const getReport = async() => {
-  let runs = 0;
-  urls.forEach(({url, dir}) => {
-    console.log(`Executando teste de desempenho ${runs + 1}`); // Registra isso no console antes de iniciar
-    try { 
-      const reportProcess = exec(`node index.js --url ${url} --dir ${dir}`); // Executa isso na linha de comando para executar o teste de desempenho 
+      execSync(`./index.js --url ${argv.url}`, {stdio: 'inherit'});
 
-      reportProcess.stdout.on('data', function(data) {
-        console.log(data); 
-      })
+      // const reportProcess = exec(`./index.js --url ${argv.url}`); // Executa isso na linha de comando para executar o teste de desempenho 
+
+      // reportProcess.stdout.on('data', function(data) {
+      //   console.log(data); 
+      // })
+
     }
-    catch(err) { 
-      console.log(`Teste de desempenho ${runs + 1} failed`); // Se o Lighthouse falhar, ele registrará isso no console e registrará a mensagem de erro 
+    catch(err) {
+        console.log(`Performance test ${runs + 1} failed`); // If Lighthouse happens to fail it'll log this to the console and log the error message
+        break;
     }
-
-    console.log(`Finished running performance test ${runs + 1}`); // Registra isso no console logo após concluir a execução de cada teste de desempenho
+    console.log(`Finished running performance test ${runs + 1}`); // Logs this to the console just after it finishes running each performance test
     runs++;
-  });
 }
-
-const compareReport = async () => {
-  console.log(urls[0].path, urls[1].path)
-  try { 
-    console.log('bloco try')
-    const compareProcess = exec(`node compareReports.js --without ${urls[0].path} --withExtension ${urls[1].path}`);
-    
-    compareProcess.stdout.on('data', function(data) {
-      console.log(data); 
-    })
-
-  }
-  catch(err) { 
-    console.log(`Comparação failed`);
-  }
-}
-
-const init = async() => {
-  await getReport();
-  await compareReport();
-}
-
-init();
+while (runs < runLimit); // Keeps looping around until this condition is false
+console.log(`All finished`);
