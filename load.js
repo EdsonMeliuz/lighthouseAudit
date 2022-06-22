@@ -18,18 +18,9 @@ do {
         urlsFiltered.forEach(url => {
           execSync(`./index.js --url ${url}`, {stdio: 'inherit'});
         });
-        return
+      }else {
+        execSync(`./index.js --url ${argv.url}`, {stdio: 'inherit'});
       }
-
-
-      execSync(`./index.js --url ${argv.url}`, {stdio: 'inherit'});
-
-      // const reportProcess = exec(`./index.js --url ${argv.url}`); // Executa isso na linha de comando para executar o teste de desempenho 
-
-      // reportProcess.stdout.on('data', function(data) {
-      //   console.log(data); 
-      // })
-
     }
     catch(err) {
         console.log(`Performance test ${runs + 1} failed`); // If Lighthouse happens to fail it'll log this to the console and log the error message

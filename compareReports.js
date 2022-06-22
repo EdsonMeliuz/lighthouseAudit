@@ -1,6 +1,58 @@
 const fs = require("fs");
 const argv = require('yargs').argv;
 
+
+const calcPercentageDiff = (without, withExtension) => {
+    
+  const per = ((without - withExtension ) / without) * 100 ;
+  let result = Math.round(per * 100) / 100;
+  let isPercentage = true;
+
+  if (!without) {
+    result = -withExtension
+    isPercentage = false
+  }
+  return {
+    result,
+    isPercentage
+  }
+};
+
+const printResult = (without, result, isPercentage, auditObj) => {
+  let logColor = "\x1b[37m";
+      const log = (() => {
+        if (Math.sign(result) === -1) {
+          logColor = "\x1b[31m";
+        }
+        if (Math.sign(result) === 1){
+          logColor = "\x1b[32m";
+        } 
+        return isPercentage ? `${result} %` : `${result} ms`;       
+      })();
+
+      console.log(logColor, `${without["audits"][auditObj].id}: ${log}`);  
+}
+
+const compareReports = (without, withExtension) => {
+  console.log('compareReports');
+
+  const metricFilter = Object.values(withExtension["audits"])
+  .filter( (auditObj) => auditObj["numericValue"] && auditObj["numericUnit"] === "millisecond" )
+  .map(({id}) => id)
+  console.log(metricFilter)
+
+  for (let auditObj in without["audits"]) {
+    if (metricFilter.includes(auditObj)) {
+      const { result, isPercentage } = calcPercentageDiff(
+        without["audits"][auditObj].numericValue,
+        withExtension["audits"][auditObj].numericValue
+      );
+      printResult(without, result, isPercentage, auditObj);            
+    }
+  }
+  // console.log("\x1b[37m", '...');
+};
+
 const getContents = async pathStr => {
   console.log('getContents')
   const output = fs.readFileSync(pathStr, "utf8", (err, results) => {
@@ -26,59 +78,6 @@ const checkExists = async (pathStr1, pathStr2) => {
      fs.unlinkSync(pathStr2);
   }
 }
-
-const compareReports = (without, withExtension) => {
-  console.log('compareReports');
-
-  const metricFilter = Object.values(withExtension["audits"])
-  .filter( (auditObj) => auditObj["numericValue"] && auditObj["numericUnit"] === "millisecond" )
-  .map(({id}) => id)
-  console.log(metricFilter)
-
-  const calcPercentageDiff = (without, withExtension) => {
-    // let result
-    // let unit
-    
-    const per = ((without - withExtension ) / without) ;
-    result = Math.round(per * 100) / 100;
-    // unit = 'percentageRate'
-
-    if (!without) {
-      result = -withExtension
-      // unit = 'ms'
-    }
-    // return {
-    //   result,
-    //   unit
-    // }
-    return result
-  };
-
-  for (let auditObj in without["audits"]) {
-    if (metricFilter.includes(auditObj)) {
-      const percentageDiff = calcPercentageDiff(
-        without["audits"][auditObj].numericValue,
-        withExtension["audits"][auditObj].numericValue
-      );
-
-      let logColor = "\x1b[37m";
-      const log = (() => {
-        if (Math.sign(percentageDiff) === -1) {
-          logColor = "\x1b[31m";          
-          return percentageDiff;          
-        } else if (Math.sign(percentageDiff) === 0) {
-          return "unchanged";
-        } else {
-          logColor = "\x1b[32m";
-          return percentageDiff;
-        }        
-      })();
-
-      console.log(logColor, `${without["audits"][auditObj].id}: ${log}`);      
-    }
-  }
-  console.log("\x1b[37m", '...');
-};
 
 const exec = async () => {
   console.log('exec')
