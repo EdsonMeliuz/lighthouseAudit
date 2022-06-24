@@ -93,9 +93,9 @@ const checkExists = async (pathStr1, pathStr2) => {
      const without = await getContents(pathStr1)
      const withExtension = await getContents(pathStr2)
      const metrics = compareReports(without, withExtension)
-    //  postData(structureData(metrics));
-    //  fs.unlinkSync(pathStr1);
-    //  fs.unlinkSync(pathStr2);
+     postData(structureData(metrics));
+     fs.unlinkSync(pathStr1);
+     fs.unlinkSync(pathStr2);
   }
 }
 
