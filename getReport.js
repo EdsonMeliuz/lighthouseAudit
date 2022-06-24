@@ -11,11 +11,10 @@ const argv = require('yargs').argv;
 
 const diagnostic = async (url, profile) => {
     // Launch instance of Chrome
-    console.log('diagnostic')
     const newFlags = chromeLauncher.Launcher.defaultFlags().filter(flag => flag !== '--disable-extensions');
     const chrome = await chromeLauncher.launch({
       ignoreDefaultFlags: true,
-      chromeFlags: newFlags,
+      chromeFlags: [...newFlags],
       userDataDir: profile,
     });
 
@@ -27,6 +26,9 @@ const diagnostic = async (url, profile) => {
         extends: 'lighthouse:default',
         settings: {
             onlyCategories: ['performance'],
+        },
+        lighthouseFlags: {
+          emulatedFormFactor: "desktop"
         }
     });
 
