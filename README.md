@@ -5,10 +5,10 @@ Inicialmente é possível obter dados de desempenho, quase que simultaneamente d
 
 ## Para próximas atividades temos que:
 
-- [ ] Filtrar dados relevantes de modo que gerem informações precisas para as pŕoximaas ações em mitigar a falta de desempenho
-- [ ] Criar uma lógia de comparação e a estrutura para instrumentação desta informações
-- [ ] Salvar essa estrutura em um banco de dados(Big Query)
-- [ ] Analisar estes dados
+- [x] Filtrar dados relevantes de modo que gerem informações precisas para as pŕoximaas ações em mitigar a falta de desempenho
+- [x] Criar uma lógia de comparação e a estrutura para instrumentação desta informações
+- [x] Salvar essa estrutura em um banco de dados(Big Query)
+- [x] Analisar estes dados
 - [ ] Agir corretivamente
 
 ## Setup
