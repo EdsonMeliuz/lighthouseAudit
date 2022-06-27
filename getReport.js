@@ -8,6 +8,7 @@ const chromeLauncher = require('chrome-launcher');
 const fs = require("fs");
 
 const argv = require('yargs').argv;
+const constants = require('./constants.js');
 
 const diagnostic = async (url, profile) => {
     // Launch instance of Chrome
@@ -26,9 +27,10 @@ const diagnostic = async (url, profile) => {
         extends: 'lighthouse:default',
         settings: {
             onlyCategories: ['performance'],
-        },
-        lighthouseFlags: {
-          emulatedFormFactor: "desktop"
+            formFactor: 'desktop',
+            throttling: constants.throttling.desktopDense4G,
+            screenEmulation: constants.screenEmulationMetrics.desktop,
+            emulatedUserAgent: constants.userAgents.desktop,
         }
     });
 
