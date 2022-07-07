@@ -1,54 +1,40 @@
-// Main lighthouse runner / fn
-const lighthouse = require('lighthouse');
+#!/usr/bin/env node
 
-// Required for launching chrome instance
-const chromeLauncher = require('chrome-launcher');
-
-// So we can save output
-const fs = require("fs");
-
+const {execSync, exec, spawn} = require('child_process');
+let urls = require('./listOfUrls.json'); // O arquivo onde sua lista de urls reside 
 const argv = require('yargs').argv;
 
-const diagnostic = async (url, profile) => {
-    // Launch instance of Chrome
-    const newFlags = chromeLauncher.Launcher.defaultFlags().filter(flag => flag !== '--disable-extensions');
-    const chrome = await chromeLauncher.launch({
-      ignoreDefaultFlags: true,
-      chromeFlags: newFlags,
-      userDataDir: profile,
-    });
+const getReport = async() => {
+  urls
+  .filter(({url}) => url.includes(argv.url))
+  .forEach(({url, dir}) => {
+    try { 
+      const reportProcess = exec(`node getReport.js --url ${url} --dir ${dir}`);
 
-    // Gather results and report from Lighthouse
-    const results = await lighthouse(url, {
-        port: chrome.port,
-        output: 'json',
-    }, {
-        extends: 'lighthouse:default',
-        settings: {
-            onlyCategories: ['performance'],
-        }
-    });
-
-    // Save report to fil
-    const urlObj = new URL(url);
-    let dirName = urlObj.host.replace("www.", "");
-    if (urlObj.pathname !== "/") {
-      dirName = dirName + urlObj.pathname.replace(/\//g, "_");
+      reportProcess.stdout.on('data', function(data) {
+        console.log(data); 
+      })
     }
-    if (!fs.existsSync(dirName)) {
-      fs.mkdirSync(dirName);
+    catch(err) { 
+      console.log(`Teste de desempenho failed`); 
     }
+  });
+}
 
-    await fs.writeFile(
-      `./${dirName}/lighthouse-${profile}-report.json`,
-      results.report,
-      err => {
-        if (err) throw err;
-      });
+const compareReport = async () => {
+  const urlsFiltered = urls.filter(({path}) => path.includes(argv.url.replace("https://www.", "")))
+  try { 
+    execSync(`node compareReports.js --without ${urlsFiltered[0].path} --withExtension ${urlsFiltered[1].path} --url ${urlsFiltered[0].url} --extensionVersion ${argv.extensionVersion}`, {stdio: 'inherit'});
 
-    // Kill Chrome
-    await chrome.kill();
-    
-};
+  }
+  catch(err) { 
+    console.log(`Comparação failed`);
+  }
+}
 
-diagnostic(argv.url, argv.dir)
+const init = async() => {
+  await getReport();
+  await compareReport();
+}
+
+init();

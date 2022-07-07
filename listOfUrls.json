@@ -1,10 +1,42 @@
-[ 
+[   
   {
-    "url": " https://www.booking.com",
-    "dir": "with-extension"
+    "url": "https://www.booking.com",
+    "dir": "without-extension",
+    "path": "booking.com/lighthouse-without-extension-report.json"
   },
   {
-    "url": " https://www.booking.com",
-    "dir": "without-extension"
+    "url": "https://www.booking.com",
+    "dir": "with-extension",
+    "path": "booking.com/lighthouse-with-extension-report.json"
+  },
+  {
+    "url": "https://sp.booking.com/index.html?aid=1665570",
+    "dir": "without-extension",
+    "path": "sp.booking.com_index.html/lighthouse-without-extension-report.json"
+  },
+  {
+    "url": "https://sp.booking.com/index.html?aid=1665570",
+    "dir": "with-extension",
+    "path": "sp.booking.com_index.html/lighthouse-with-extension-report.json"
+  },
+  {
+    "url": "https://www.godaddy.com",
+    "dir": "without-extension",
+    "path": "godaddy.com/lighthouse-without-extension-report.json"
+  },
+  {
+    "url": "https://www.godaddy.com",
+    "dir": "with-extension",
+    "path": "godaddy.com/lighthouse-with-extension-report.json"
+  },
+  {
+    "url": "https://www.google.com/search?q=iphone+13",
+    "dir": "without-extension",
+    "path": "google.com_search/lighthouse-without-extension-report.json"
+  },
+  {
+    "url": "https://www.google.com/search?q=iphone+13",
+    "dir": "with-extension",
+    "path": "google.com_search/lighthouse-with-extension-report.json"
   }
 ]
