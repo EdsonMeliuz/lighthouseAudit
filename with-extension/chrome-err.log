@@ -1227,3 +1227,1159 @@ DevTools listening on ws://127.0.0.1:34051/devtools/browser/1c04ed66-5b59-4f09-9
 mesa: for the --simplifycfg-sink-common option: may only occur zero or one times!
 mesa: for the --global-isel-abort option: may only occur zero or one times!
 mesa: for the --amdgpu-atomic-optimizations option: may only occur zero or one times!
+[0707/085140.987207:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+[19031:19031:0707/085141.105375:ERROR:process_singleton_posix.cc(353)] O perfil parece estar em uso por outro processo do Google Chrome (730875) em outro computador (pop-os). O Chrome bloqueou o perfil para que ele não seja corrompido. Se você tiver certeza de que nenhum outro processo está usando este perfil, pode desbloquear o perfil e reiniciar o Chrome.
+
+DevTools listening on ws://127.0.0.1:37029/devtools/browser/4d98366f-6ac9-4bb9-ab95-d55afbf1cd4e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/085250.105309:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42019/devtools/browser/e7d11919-928d-47a5-bc0c-abfe314f3a5a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/085454.637002:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33469/devtools/browser/daeead78-f5fb-4200-8140-14feb0085a29
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/085722.644729:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:34537/devtools/browser/ebc6a15f-f2b3-4efd-94cf-a225d76fd920
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/090004.492254:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44431/devtools/browser/1d52bb05-3ffc-463d-a496-33ef127e1081
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/090049.531390:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35043/devtools/browser/4aa0d007-a2b3-413b-b4f1-ff595da364e6
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/090153.623041:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:38677/devtools/browser/c303d17b-6a22-4d97-9e64-8a50555bae86
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/090425.504950:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:32953/devtools/browser/e60db534-c003-495d-a473-781f3e25fde3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/090657.262080:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:39193/devtools/browser/e8d21bd5-5f51-4324-8dfd-01617fe4d310
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/090821.288756:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44415/devtools/browser/7fbe20c3-a8b8-476e-a2c0-2017dfed04dc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/090903.512550:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44293/devtools/browser/b3d1ab64-47e5-46ce-b925-0a9b13d5e5f9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+Gtk-Message: 09:09:52.442: GtkDialog mapped without a transient parent. This is discouraged.
+[0707/091537.409170:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:36499/devtools/browser/ad1f6381-8b74-4a47-9e54-fc23b5acee33
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091601.369057:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46177/devtools/browser/3aa204ee-2b9a-420a-b122-ae5d35b37d97
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091629.173400:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41115/devtools/browser/d56da1da-1f17-4c5b-8273-d2a46fcc9359
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091653.915236:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:36413/devtools/browser/a5317c85-4495-487f-903f-0f668e89bdf2
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091719.484313:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33117/devtools/browser/ecfc082d-8b7f-4bc4-b0e0-d7b83a1fb014
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091744.576673:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43181/devtools/browser/250d83fe-96bd-4623-82b7-5a70cf28bbaa
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091808.262372:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44979/devtools/browser/165d1b78-a9d4-4b44-a2e2-e19258efc9e9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091833.527771:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42835/devtools/browser/fac392da-bb6f-411a-8d19-9f11d30b6b8d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091859.407973:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:32983/devtools/browser/9179f1b7-f5af-4603-b913-13feb47f767c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091924.121267:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33085/devtools/browser/ba43e479-e116-47e3-9665-a192bd1b6669
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/091946.942959:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:38915/devtools/browser/9ba3925d-45e6-4a58-a76a-957dcc1ea69a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092010.440561:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35715/devtools/browser/3fd6056e-6267-445d-9662-a3ebffb5448d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092035.527788:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46389/devtools/browser/e7e76b1a-f158-4ba3-b27a-9766837267f2
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092103.339577:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43133/devtools/browser/41dd28a2-843b-4167-b15e-d217cfad434d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092128.230705:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43891/devtools/browser/aeea1c61-33b4-48c4-a1d3-ab6e56d71aff
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092153.107357:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41579/devtools/browser/c1c06103-72a8-4c2f-9a2c-b259f1677d11
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092217.886954:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:34341/devtools/browser/0c0d12bb-d7bf-4051-8a6b-e249d6e05088
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092240.511158:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41107/devtools/browser/8b1e3ba5-1af5-4a25-873a-60e728769346
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092308.266599:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44223/devtools/browser/e25d7d3a-32f3-4b87-a0c7-d9ad28dc586f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092334.867984:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:40519/devtools/browser/40ce3d99-34bb-4bf7-95eb-796b0222609f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092359.580172:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:38477/devtools/browser/5d8c088a-e6c0-45b0-9b66-2c708b499eae
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092422.597504:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:39007/devtools/browser/965c9264-439a-4460-a5d5-948ca5df33a0
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092447.996213:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:40419/devtools/browser/39c27bf9-0afc-4799-9928-ebd42f287a0b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092513.336121:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42571/devtools/browser/7bed7b8f-a2e2-421f-93cb-d8de1c620a1c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092536.799787:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:40183/devtools/browser/7f98c6ec-1274-42fe-85ab-c1e84f22293b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092559.925325:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46629/devtools/browser/6efd879a-df79-457b-a26d-743a4fde6b41
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092624.591685:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35273/devtools/browser/5b624793-4d77-4c4a-a886-c8eeb0fec786
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092649.332757:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:39595/devtools/browser/aeeafd3d-2712-4121-89e7-0b37adb2f9bc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092712.891524:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41411/devtools/browser/7a1f2ec5-7936-499d-90ef-5cb91d8899c5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092737.592180:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33629/devtools/browser/fc1f2636-5460-43ec-a3f0-0931b48b7ecd
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092802.374754:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42661/devtools/browser/b985e568-1c86-4569-a169-00b7d67d4929
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092827.218502:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43409/devtools/browser/e838d077-7813-41d3-95ea-bff754e29425
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092851.910349:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33975/devtools/browser/b6f37a98-90de-480b-9da1-0f30f7af7c79
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092916.794249:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46823/devtools/browser/c88e1365-720d-47bb-9507-bd116f63c4df
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/092941.486218:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:39917/devtools/browser/a87fd402-c606-474b-a286-bb2e95673036
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093006.361269:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35867/devtools/browser/b053d682-5db8-4b4b-a0dd-5c801a7e7c09
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093031.145711:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:40415/devtools/browser/81d828ca-3e9b-4160-88e5-d3c5364bc7b6
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093056.033281:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46301/devtools/browser/ac6cd9cf-0a78-4798-9aa9-30315190a2d7
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093119.299723:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41197/devtools/browser/98e47cfd-f35e-4443-b03b-d1eb1e382d34
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093144.053573:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43457/devtools/browser/3bd4e02b-dc2a-46e7-b2f0-d300c4138f12
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093208.824875:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44195/devtools/browser/0052714c-1614-4a8a-970a-ade93bee0976
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093232.007453:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42505/devtools/browser/e9c0d7e1-f2cd-473f-9260-c5d20c30e019
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093256.771741:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37219/devtools/browser/b15d09ad-3ce4-4963-a7f1-f0c73c820067
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093321.650020:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37685/devtools/browser/5c87cc15-7de9-4739-bd14-f052834327c7
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093346.419662:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44281/devtools/browser/ee167800-d77e-4f50-b9b0-5c09b553921f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093411.305614:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42999/devtools/browser/551d5ddc-d84c-43cd-ad45-a1ec1991d5c1
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093434.468172:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:39199/devtools/browser/b186169d-77d8-41c3-8272-e01552ea1afb
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093457.699475:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43063/devtools/browser/e32c01c3-171c-40c7-8c0f-8abb4f484fb8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/093522.414901:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41603/devtools/browser/23bebbdd-77e5-4df9-b7e0-9c6b8fa35a36
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094509.285631:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37415/devtools/browser/bbcc76ee-6c01-4937-baff-720ca16f951f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094532.517395:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33717/devtools/browser/ec61f576-f91d-4976-88f4-10d636e2b9f3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094557.201047:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43095/devtools/browser/7fecd8d0-c5bc-4f07-ba63-4fc44cd3b034
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094622.083401:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:45265/devtools/browser/abf9f11e-44b1-47ed-a3e0-0d4e5e6535c4
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094647.188364:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41991/devtools/browser/fd1cf429-0d67-40fd-8189-ead275b10a7a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094711.894388:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46611/devtools/browser/4618636a-585c-4e96-a78f-521a953f5745
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094738.153661:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:34861/devtools/browser/6e94abc3-afb4-4a88-b3d0-1b95a6ac5792
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094806.031696:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41019/devtools/browser/558e11d1-33eb-4c3f-b93e-de4712f81788
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094830.795868:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:36257/devtools/browser/8708c24b-bf3d-4071-9ba4-9c31f6edc9cc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094858.560654:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42687/devtools/browser/6ce43ead-67a9-4b7e-9b41-fe964ffec8a5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094926.294821:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42111/devtools/browser/0a837c75-ccdb-435c-a09f-490d632e0be5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/094953.963077:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35053/devtools/browser/033dad99-7cf8-449d-a1c5-3967df550525
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095019.145210:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:40479/devtools/browser/90bc0c01-8a04-4123-9392-6d05198f8b29
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095042.153883:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41507/devtools/browser/32e4c509-9f73-4941-b4d1-49cb43331943
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095106.959915:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37037/devtools/browser/b1afc17b-5684-47a6-b38d-0d7eb0c4feb3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095133.143080:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37043/devtools/browser/691afab4-3012-4b16-8ef2-d92cd5d55449
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095159.172168:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43713/devtools/browser/88497668-2264-4cff-b862-e659dcb0eabf
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095227.156870:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35217/devtools/browser/effa2016-bced-4022-a7dd-0480dd631f6b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095252.996194:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33477/devtools/browser/bb1915f2-2cd8-44be-ab16-9df29bbe533c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095317.850793:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:45459/devtools/browser/618d46d8-9ccf-4ccb-951d-b4dc3c2dc55f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095344.117131:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33977/devtools/browser/562b8a43-4960-499b-a1ec-44388f1f4966
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095408.854991:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42347/devtools/browser/37d4fa55-39d6-4b1a-a00f-ea588dacc7da
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095433.509614:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:36209/devtools/browser/f36ae71f-34cf-4b3f-b293-946e6fa7be87
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095458.174886:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33773/devtools/browser/f3e4f767-e4de-4c26-a116-19ebd3fec541
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095522.856429:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46137/devtools/browser/9c0cd996-120a-46aa-b4a4-b2a67e846320
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095548.170810:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:32893/devtools/browser/83cbd08d-e9ee-4b2d-a283-11c7e6013d13
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095610.915460:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:32979/devtools/browser/b18e581d-0e32-43de-92ed-1bb866a77413
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095637.370682:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42993/devtools/browser/48dfabde-3038-422e-b8b8-c3213b89a4ac
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095702.095558:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:32895/devtools/browser/decbebe3-1a4b-4f37-8908-4ec40ab541b8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095727.089224:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35131/devtools/browser/7f156cb3-c68c-4204-9af3-1faa9aaf7de8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095751.769087:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42203/devtools/browser/38eba235-5edb-466f-9e33-deaf1dfdaaef
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095819.435012:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35167/devtools/browser/ec707ae1-eb73-4316-b43a-92b78764f905
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095845.311157:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:34001/devtools/browser/9a5a3fc5-8a7f-4175-bc7f-b9253c97ad5d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095908.321911:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:45607/devtools/browser/82783c0a-38f0-4b0f-8c23-fd65d2e5a36c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095933.236171:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:42071/devtools/browser/a6597645-2ef4-41ee-bbf9-f39df39e0a3f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/095959.928011:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:41925/devtools/browser/9c46c274-42e7-4f79-925d-e78c159ce505
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100026.024607:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:38291/devtools/browser/2f13ac57-66dd-4fb7-b90b-48cc497230e9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100050.756031:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:45917/devtools/browser/f7de63dd-31b4-484f-9046-665e2491b20e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100116.938093:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:40713/devtools/browser/540bad57-e190-4ed9-9e9f-1cd7329ff770
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100142.200202:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:46879/devtools/browser/dc57940a-8ce5-4ee3-9191-d238ec919b8a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100207.059521:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:36531/devtools/browser/5d1e3a1e-afef-4ed0-830e-141a1183f309
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100232.862900:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:38561/devtools/browser/24bc3439-752e-4c53-b8da-8ee7bf972de5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100301.308248:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:38091/devtools/browser/77da3611-cd06-4817-b18f-dfe5c0ae2559
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100326.123692:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37943/devtools/browser/d3985898-8348-4ed5-9fc8-ff560ca811fc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100348.510092:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:40811/devtools/browser/2ffbae55-91ea-4711-b9f4-da3d00fb9b4e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100413.288874:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44487/devtools/browser/8f4466de-2559-4c0e-8164-fd6b2d327524
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100438.008933:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37879/devtools/browser/67414d60-ae5c-4e25-80c1-4980037a41cc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100503.691789:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:37063/devtools/browser/46ff3743-6ace-4f9a-98b8-f74cc403a5d2
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100528.500945:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:44699/devtools/browser/ebd7d750-6ea1-41d9-ab3f-8a45e17ba779
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100551.389800:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:33789/devtools/browser/edb68701-8852-46fa-8261-c6b682d0a4a9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100617.026351:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:35561/devtools/browser/5738e7be-dbcc-43f9-a591-754fd4d24d0f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+[0707/100641.906949:ERROR:file_io_posix.cc(152)] open /home/edson.araujo/.config/google-chrome/Crash Reports/pending/ea4f4676-9001-4408-a7d4-2bb559e149d2.lock: File exists (17)
+
+DevTools listening on ws://127.0.0.1:43011/devtools/browser/cf87a9ec-fdc4-4420-abf6-67454238c951
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33601/devtools/browser/fdbb957d-41e2-495b-aaf4-993b6ac6f9c2
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+Gtk-Message: 14:17:58.204: GtkDialog mapped without a transient parent. This is discouraged.
+
+DevTools listening on ws://127.0.0.1:46349/devtools/browser/58065f17-3a26-4780-a594-bb0aa4cf743b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46643/devtools/browser/1855fc51-e868-40f6-b272-4252355eefc1
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36765/devtools/browser/c7b76347-e029-4493-9de5-cd99070e57be
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40979/devtools/browser/6a00780b-d7c3-4f2e-ae59-de7d674fea23
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42511/devtools/browser/04aa865a-e59f-4a69-a6a7-07cb0bd9d88b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44355/devtools/browser/eb14afa4-168c-4f2b-b604-7c8da4235298
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43927/devtools/browser/3e69290e-7509-4658-80a9-34a6e0a7a184
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42063/devtools/browser/ce1330b0-34fa-4abc-8ca1-1ced48d404e5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37753/devtools/browser/3ac85954-ad79-440e-b670-0da8c85e135b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35947/devtools/browser/8d9c9024-9ccd-4ccc-bbeb-42cc3827a696
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34553/devtools/browser/260ea5dd-c2e0-49c6-813d-5ff936a6ae91
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44517/devtools/browser/c5ee9ab3-97d3-4398-8321-08eb3a741948
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35005/devtools/browser/a1e86f49-fee5-49a2-9b3c-726701e66856
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36379/devtools/browser/966401ca-ab75-48ec-8975-2c8ae469ba7c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43207/devtools/browser/efe7b4b5-afc3-4a7a-9a1c-229065e19e81
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45237/devtools/browser/8867cdb3-ab14-4ecf-a538-cfe164e0988a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33679/devtools/browser/10d1242b-1693-4c69-ae13-33139b91e4a3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33435/devtools/browser/ebcbe8da-d1a9-4179-9297-3e79ea56b6e2
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42091/devtools/browser/58ece34c-2624-4a89-95a6-e5f8e550210c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35291/devtools/browser/d979aaa5-9796-4d84-9a2f-b911379e6736
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34353/devtools/browser/151c6962-a58c-4df3-ad11-9ddb76c38348
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36133/devtools/browser/ecc3472d-268a-40cf-bb14-775596a03e14
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39601/devtools/browser/5249af79-3744-46d6-8729-26c2802eee42
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40377/devtools/browser/fba84373-6a85-4fa5-995e-e3c392f905b0
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33895/devtools/browser/53a637a9-99da-4e5e-bb8a-64efeaab05ac
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44347/devtools/browser/1386fd36-7cef-4242-ba5e-b9ace3a9f40d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41881/devtools/browser/acabe351-bb0a-4479-85f9-a046f1a06e03
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34155/devtools/browser/82168c9d-2c80-4a67-8545-861adb7c59d6
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38651/devtools/browser/1bf3eb8b-f1e0-4997-a777-5f7455e3100a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46713/devtools/browser/50c0adba-541f-4aa4-ac4c-70e8dcd0a5bb
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34359/devtools/browser/1da4b06b-a03b-494d-b382-91ca993ebd5e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40271/devtools/browser/ebb563c5-0879-4fbc-8522-7500b1a7606b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43659/devtools/browser/6c8c6003-f7be-49f5-b0dd-0910cede6257
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42301/devtools/browser/80f1f47e-d5eb-4667-a788-dcbb0edbced7
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39519/devtools/browser/75ffac63-0796-4180-9090-1368c5e1b366
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39351/devtools/browser/d190878c-7b38-4340-8837-5035f0aa0f65
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43687/devtools/browser/88e35a86-f083-4a99-bbc9-688ad1117d65
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45257/devtools/browser/3d2dc8d8-bf85-4ba8-bf53-b88c97898f2c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46819/devtools/browser/42d939a2-0392-4679-821e-0a5cb54d4a2d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42765/devtools/browser/c538f466-3983-40a1-bac0-d5194e2454fd
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43655/devtools/browser/3a2c927e-8c42-4dc8-a4ae-ae489bc0f265
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46237/devtools/browser/116fea75-07f9-4783-9f58-2d1fecb7d6fc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41113/devtools/browser/3ddf823f-1599-4207-a71e-afa5a836d2df
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33229/devtools/browser/587b9791-69e8-494d-b771-a6ad0277e44a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36177/devtools/browser/65af408c-ef2d-449c-aa05-514d18219517
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34061/devtools/browser/e55bb926-623f-4221-a83f-a8dae245158c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42139/devtools/browser/2df660e8-d14c-4919-9b2d-2b055281da66
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34179/devtools/browser/8d894a83-c606-415d-a5e0-03a01ae7baaa
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36931/devtools/browser/0632fbd7-7be7-4c18-9808-393f79aa0986
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43783/devtools/browser/5cf66dd3-e940-4262-97d2-bc7d1d2e4a88
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43859/devtools/browser/242fafea-0a1b-481a-9e33-f00be4c2a2b2
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40775/devtools/browser/cbd0f96f-fec5-4b49-8084-a307c188436b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37747/devtools/browser/9fa9b024-e872-49a0-9de9-b9fa4e357e6f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38717/devtools/browser/d91eac3c-9e8a-4649-b633-6bce2364ad16
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46265/devtools/browser/e506d96b-fe93-4b6b-aed1-7729fb66aa64
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39469/devtools/browser/69535b32-ac68-446d-812a-cf3105a3943c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44619/devtools/browser/d01f4c2e-a213-4609-93e5-b04c62bd0849
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45563/devtools/browser/b562a887-46f2-4b9d-86f2-822bd89c044d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45039/devtools/browser/d9ca115e-cc17-44a3-8c92-fb886ddafd83
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44891/devtools/browser/ee3bca20-5821-4445-97ce-e1ffaad706da
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46123/devtools/browser/20deb097-e3ee-4189-a833-372cd59309c8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36489/devtools/browser/28f38221-0c35-41e3-a061-59e265c3d6a3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44851/devtools/browser/89f1a695-d4ce-4683-babd-e6aad0bd48f7
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42993/devtools/browser/84aaecb7-3223-4eb6-84f4-60cb487e18e8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38541/devtools/browser/8631c3ee-6ed5-4796-b61d-404dd8bed274
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43539/devtools/browser/1399fd20-6e8e-4684-be5a-890577526dda
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46557/devtools/browser/c2eaf3de-1a3e-4b2a-80f8-16dcbd4c4b15
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35003/devtools/browser/95e9dc3f-75e0-4e3e-a2dd-cb2ea01c7490
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34909/devtools/browser/5d92ba9a-5dd2-4002-9ba1-e7e9df3b4832
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46539/devtools/browser/80d9724e-22e4-470e-8f9c-487e568519db
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40613/devtools/browser/0ae1f458-e6ee-4410-a702-a03a5648b34f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38043/devtools/browser/e8800df4-e0c6-4405-9d68-d6675175fd52
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34229/devtools/browser/3f7fe12f-e666-48b3-a4c1-aa2805bc315c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46047/devtools/browser/900cbc4e-855d-41b7-be1c-362928baec1e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36709/devtools/browser/12f0b297-524b-4eb0-943e-23c262515949
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45785/devtools/browser/6721b613-ad97-48d9-9ba2-9ca2782869f1
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34663/devtools/browser/e16ceeb7-2d3f-4dce-b54c-42d87ff742da
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:32839/devtools/browser/d812adbe-fe37-4631-bd1f-0b0775d81a5f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41151/devtools/browser/65b68a31-d78c-47ad-820e-69ce30f4bd4a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34125/devtools/browser/ae551dae-814b-476f-8ea8-67e274e53a1b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37243/devtools/browser/c592c024-9bdd-44cb-bee8-ac2abcfe0bf4
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42319/devtools/browser/00549b2c-d6d2-412d-856f-902618258ccb
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46739/devtools/browser/1555287c-339d-4e02-b1a7-4d81e2f4f52a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35313/devtools/browser/bdba6756-b10b-4fba-9dc7-20f2d21fdfe9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38209/devtools/browser/da27ae76-0738-4617-8250-fc5d164c0e0c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44367/devtools/browser/80d822d1-d820-42fd-8b31-63e63ba8ed60
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36413/devtools/browser/28128574-c93d-4217-a8f3-73eefff2ac54
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37513/devtools/browser/d3573253-d23d-488c-8a9e-16af9c74c747
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38517/devtools/browser/f5c4bc5f-c388-4686-ab76-b1783bd2365a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36173/devtools/browser/2f000c42-3546-42e9-acc6-e80fe5fcd7f6
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35375/devtools/browser/c8cf0d53-16af-4f04-8f6f-0e44ed7cbebe
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44289/devtools/browser/6eedd739-3675-4b30-9b6c-c4a400f76613
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46487/devtools/browser/41ed23db-a998-4eb4-94d3-54cbe8d38771
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46801/devtools/browser/d2ff1d9c-ca49-4b7a-8c5f-13ed318e91c3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39191/devtools/browser/c5fd05c1-c26e-4dbe-9ee3-88266efce219
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42519/devtools/browser/097f0dfe-b1d0-4f71-bcba-d6dec81c1557
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36755/devtools/browser/9fba7c8a-9d18-4f9c-86a2-2642825a03de
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40963/devtools/browser/dd3d047b-f767-45d2-8601-15dc96543b86
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33623/devtools/browser/b1d5a5d8-02e5-4bde-84cc-562a0a55a22e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37543/devtools/browser/5c9eb33f-5ccc-4cd1-8e9b-431a410552a3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34947/devtools/browser/a978586d-2f8a-4135-8a67-7cdf81fe8c8d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45489/devtools/browser/19d31fd8-ab94-4bd2-87ef-7f95afb90b58
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+Gtk-Message: 16:36:24.972: GtkDialog mapped without a transient parent. This is discouraged.
+
+DevTools listening on ws://127.0.0.1:35877/devtools/browser/42764590-273c-4e38-9e8d-218e2cef2ae9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43915/devtools/browser/ffb2d601-f54b-46c2-bdfb-d06f1c2dd7a2
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44079/devtools/browser/2111de19-0584-4fd7-9617-7c967d92670f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45857/devtools/browser/f9c9aa23-d4f1-4235-a677-8a40feff07ca
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41837/devtools/browser/fb741176-697e-47ab-bcd0-4dffde9a7787
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43363/devtools/browser/b9ca3b14-64bd-4360-a6a2-501c967254df
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40755/devtools/browser/4e4d7316-eb20-4d80-91aa-a0ff98572ffe
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42687/devtools/browser/034bea27-d6a1-4d76-bacc-572e064e8eb1
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38903/devtools/browser/d4d590d5-17ce-4d0f-9627-33a753003715
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40165/devtools/browser/6c09fac9-096a-47bc-9697-7d98afe8d0a7
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42787/devtools/browser/566c3e83-5f6d-4634-926b-37dc8173bb57
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39163/devtools/browser/c64630b4-46fc-4ee3-88a1-456ab25a0025
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42107/devtools/browser/1855567f-9097-4386-a051-1f018442effe
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35947/devtools/browser/bc46f436-9294-47d4-aaf5-d29b03fc68af
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34383/devtools/browser/f23ca372-4646-45a3-84c5-9ea06932fe12
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39719/devtools/browser/36065da0-bd36-41b1-9056-876ad19ccf11
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39421/devtools/browser/dd11e83d-1a80-48fa-ae92-0839049e6596
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46703/devtools/browser/7c17bf30-354c-4623-8c77-432fa144b33b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33365/devtools/browser/fdb74b08-f091-4f72-ad59-6b267e46b660
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38987/devtools/browser/09c6fd77-8486-4f9c-a73f-4266262d6358
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43351/devtools/browser/344adc9c-d174-478d-a06c-73f91dc05c7d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36039/devtools/browser/19a48e99-4e21-476c-82e9-3fffc9b52eb8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38503/devtools/browser/111a392d-35f5-4df9-8ec3-c4a081251b40
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42941/devtools/browser/1d9e10fc-ddff-4332-a624-f9531edfe4c9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40177/devtools/browser/c1660511-daf3-4f34-99ec-dd787bf4e6d9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34291/devtools/browser/03c1abbc-cc7f-4319-8e50-08f9c9b513ed
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37985/devtools/browser/dfc11530-4bad-4e84-ab46-ab914b2d2964
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42953/devtools/browser/6ddc173d-eb9f-4bc8-995a-d3cf2376ebb9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37115/devtools/browser/8bc32feb-2d57-4c1c-935c-dcbb776c043a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42445/devtools/browser/79b0a7a8-0ac0-4e68-b709-82c2ef0f0758
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46619/devtools/browser/0d5f76b1-a85a-4795-b933-614bc6c86ddc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34051/devtools/browser/1f155efa-43a9-4eb9-952c-229a079dea1a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:36247/devtools/browser/c051eb14-1fd8-4944-9622-bdca154ead61
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38943/devtools/browser/b980f6e4-651e-4649-9af1-355be8e48530
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46281/devtools/browser/90f7e19d-83ea-4432-868a-dadf48b3666c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35131/devtools/browser/4f7a442d-7151-4ce3-883b-5ef7b79eaa20
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42367/devtools/browser/0dd4ca6b-62a7-449b-a116-7f662a8d6392
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38425/devtools/browser/24152148-39ca-4857-b418-1c1a2b7cd595
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43681/devtools/browser/864a3fa1-19da-4949-9e66-6288cd13ed90
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46107/devtools/browser/14bd5063-74c5-4ba9-8f1b-a392dfc6e53a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37887/devtools/browser/989eda7b-6909-4097-a77f-d80b95d591d9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43795/devtools/browser/e663b538-3136-4f24-8633-d0cf9ad14ac3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45109/devtools/browser/a721e849-1dd5-440e-8b63-b28073066faa
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35247/devtools/browser/04338f9c-d535-4ec8-a88b-1735886c6ab8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33189/devtools/browser/9326c097-975f-4dbe-bc91-13fd692d7e13
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42235/devtools/browser/dae4a706-629c-48c4-a41d-81e2c51bd1bc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40209/devtools/browser/39f469af-f1aa-4deb-8df3-e72a49fa5b12
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44291/devtools/browser/fcf675d7-942e-46d0-878c-2b598637ee0e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39597/devtools/browser/285f9945-932c-4aee-8b84-f2742d61f4ac
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40187/devtools/browser/b10491af-b405-413e-923e-b06ccd52cfea
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41217/devtools/browser/3ad1030a-f287-46c4-9821-b8d8d4bdc919
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34785/devtools/browser/c8db4da0-bfab-4706-aba7-3220097500a3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38575/devtools/browser/26dbdcda-9216-4906-be14-5a555f4da2d4
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42147/devtools/browser/db1eefd7-fca5-48ce-8a16-94b247211b86
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44429/devtools/browser/19a7fe86-a380-48f7-af06-7aefaf9f9685
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35291/devtools/browser/44a523b2-a619-42ed-87b8-b6d286d01ac0
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43017/devtools/browser/43e9cdaf-3c10-40eb-997c-ebcfdd48070e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46487/devtools/browser/24c33a22-e04c-443c-97c9-d35ae19af909
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43465/devtools/browser/9455e268-847c-4591-91b8-5ab2a43a6721
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43837/devtools/browser/e570b944-771d-4784-b5f4-73d30b2d8f59
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46585/devtools/browser/a1772c48-e76e-4f53-9eb2-e89c2c446e10
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40153/devtools/browser/389d70a9-20e9-40ed-ba58-27edc784d695
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35985/devtools/browser/18675a28-c995-4ef0-9981-344aa3544dde
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39329/devtools/browser/37ab1846-157a-407f-ac88-cdc169603364
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40113/devtools/browser/f36b5987-1da8-4b69-8f43-0737aa205561
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42375/devtools/browser/34d75b25-bf80-4164-a734-5aa884c3dfde
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41807/devtools/browser/a6882bea-315e-4d25-b837-1535469f1af0
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37867/devtools/browser/303794e3-96d4-4714-8d8d-058414cd84d9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46019/devtools/browser/4ed08d8c-fa85-43fd-81a3-e6972acff072
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41397/devtools/browser/7ba98658-3e60-49ec-bc1b-b33a3e3235e8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34165/devtools/browser/e3ff02df-8c19-4597-af71-7f981f773c2a
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45539/devtools/browser/8da1af76-760f-4229-b61d-f5325086984d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44279/devtools/browser/7b30e7eb-496b-41cd-974d-15e0898d6aa8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35951/devtools/browser/a4727ee6-d5c5-48e9-9707-54dfdbbd05ea
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41803/devtools/browser/92e479c2-ff67-42d6-89b7-627b492ecd48
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34727/devtools/browser/500425a6-7bc2-4a09-8d3c-eb608a439d9d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41201/devtools/browser/8d142eb1-7250-4463-a518-bfba903f5855
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40805/devtools/browser/2c45b544-1c43-466a-8175-c09c7eaadac9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46209/devtools/browser/dc8343e0-8e16-4a64-942f-046fbf3387e1
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35613/devtools/browser/5765507f-2594-42bd-b37e-39279f3496ca
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45329/devtools/browser/991cccaf-439b-48d9-9f50-3ada734b27a6
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34239/devtools/browser/a3923cb4-e078-45e8-b521-9272373b53f4
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35729/devtools/browser/e203c2e9-4874-4579-ab53-dd0e7cb2cdd9
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37333/devtools/browser/a510e85a-f57c-4660-a006-d00c159fb08b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:35247/devtools/browser/ec5e6caa-3cd0-499a-b416-a012af15cce7
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33141/devtools/browser/2b299623-3e16-48e1-9d17-f6d087a215b8
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33919/devtools/browser/cfc6adac-41a9-427f-81f2-f3d2183e2f14
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33877/devtools/browser/c9496c3f-47af-483e-839d-97142fc04a1f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41155/devtools/browser/5a2e170b-a1af-4e41-a3bb-5b051253025b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37541/devtools/browser/60a78aa5-3056-42be-b318-9e5de3fc2739
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46037/devtools/browser/bd9efd06-ce17-437d-bd57-999e0042eb15
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44195/devtools/browser/b037d819-77c9-4fc0-89ef-02bfa1e9bacd
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37895/devtools/browser/8818f259-38c6-4ef0-90b2-3d9e0f05f5bf
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:43505/devtools/browser/96c5e5e9-b245-44de-a255-562921448652
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40101/devtools/browser/baf6a825-328f-4b96-b8ba-74adf8ce2c92
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34465/devtools/browser/f1bb9b42-c0d2-489c-b3db-78dd12c3fee5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44537/devtools/browser/0da7bfa5-ca92-4fa3-ba55-5bce33a6f1f4
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33727/devtools/browser/69bbbe92-2b72-489a-912b-e88cef9b9182
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46069/devtools/browser/73fe2d63-0deb-4225-9039-f1098fa0403e
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44293/devtools/browser/44981636-2cf4-4234-bfb7-60a5f611fbc5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44637/devtools/browser/e32a9b1b-c571-42da-bcb5-885fa00104a6
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:42395/devtools/browser/6ed1bc4e-bd42-4bf0-8d3c-26945ec23ab4
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40475/devtools/browser/cd0a10f5-bb16-45fa-8f6c-8e5b03409925
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44305/devtools/browser/5b47232b-2b5e-4a61-bec4-a416f0091623
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+Gtk-Message: 19:10:25.241: GtkDialog mapped without a transient parent. This is discouraged.
+
+DevTools listening on ws://127.0.0.1:34203/devtools/browser/0b841190-2759-4de7-9451-94282acca94d
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33877/devtools/browser/bab031ab-b0e9-438e-a026-32e5a84b567f
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+Gtk-Message: 19:43:36.213: GtkDialog mapped without a transient parent. This is discouraged.
+
+DevTools listening on ws://127.0.0.1:37315/devtools/browser/ba199238-0f9c-4148-bf46-5c6ddc8b9068
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41789/devtools/browser/95fef1cb-1f24-4ebe-b36c-22f1f1bbf6a1
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34241/devtools/browser/ee2da692-703c-4a09-a27a-ebb1eaeb80b1
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:39427/devtools/browser/55a517b2-8ac6-4423-8816-99f60e2db446
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34509/devtools/browser/50f0d1be-0bb3-48ab-a685-01dcc61d9398
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37449/devtools/browser/0a4036d3-d62f-4cb2-8eef-48975e17760b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:32911/devtools/browser/731d5e6e-99c5-4b5c-9037-dd6b5d27d0eb
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:41505/devtools/browser/0ecb04db-40ae-4450-9561-bc7a89e3360b
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34089/devtools/browser/29c39db8-4e4b-4bfe-ada0-3cf802c21bcc
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:34271/devtools/browser/99475ab1-796b-4ded-8157-b77d8beb44ef
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46641/devtools/browser/56b52373-393b-4b60-a2d9-39ae6333edd3
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:33299/devtools/browser/7d9a5f88-cedb-4ae6-a6df-2dd53c3ee475
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40991/devtools/browser/b79f8d71-7707-4bfc-943f-7f3cf4cac28c
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38013/devtools/browser/981aae3d-cec5-4bad-b607-a16c6e04b929
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+Gtk-Message: 18:19:17.875: GtkDialog mapped without a transient parent. This is discouraged.
+
+DevTools listening on ws://127.0.0.1:33359/devtools/browser/0ad6c4b1-8cfd-43d2-80a6-30b05e3d7b74
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46335/devtools/browser/67aec5ca-06a5-443d-b5fa-29c33f70fb94
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38153/devtools/browser/05d0e853-5315-4ad0-9591-2ea8e61ac329
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:46331/devtools/browser/c31f1046-1f56-4939-93d6-0234ca8644eb
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:44219/devtools/browser/787b58e2-f3f4-40b3-a49f-63972c6f2ef5
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:37827/devtools/browser/4dceda12-e7c0-4f8e-99d3-e6025b00dfaa
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+Gtk-Message: 18:38:00.266: GtkDialog mapped without a transient parent. This is discouraged.
+[7364:7364:0721/183810.231363:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+DevTools listening on ws://127.0.0.1:33087/devtools/browser/4d79236f-47cc-43ae-8fd6-5f75e606a716
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:45683/devtools/browser/b2c88e96-8edb-48ba-8bbf-344a35654b88
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:38395/devtools/browser/219f7bcb-070d-4a90-9d4a-7ed3544fed37
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.
+
+DevTools listening on ws://127.0.0.1:40909/devtools/browser/ae029db6-9f54-4d7b-a700-3ee8df07c791
+../src/intel/isl/isl.c:1988: FINISHME: ../src/intel/isl/isl.c:isl_surf_get_ccs_surf: CCS for 8BPP textures with 3+ miplevels is disabled, but support for more levels is possible.

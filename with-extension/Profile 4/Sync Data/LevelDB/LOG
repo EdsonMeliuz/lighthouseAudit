@@ -1,3 +1,3 @@
-2022/06/13-19:08:55.891 b2732 Reusing MANIFEST /home/araujobarros/Meliuz/lighthouseAudit/with-extension/Profile 4/Sync Data/LevelDB/MANIFEST-000001
-2022/06/13-19:08:55.891 b2732 Recovering log #3
-2022/06/13-19:08:55.891 b2732 Reusing old log /home/araujobarros/Meliuz/lighthouseAudit/with-extension/Profile 4/Sync Data/LevelDB/000003.log 
+2022/07/21-18:44:40.328 4657 Reusing MANIFEST /home/edson.araujo/Meliuz/lighthouseAudit/with-extension/Profile 4/Sync Data/LevelDB/MANIFEST-000001
+2022/07/21-18:44:40.328 4657 Recovering log #3
+2022/07/21-18:44:40.328 4657 Reusing old log /home/edson.araujo/Meliuz/lighthouseAudit/with-extension/Profile 4/Sync Data/LevelDB/000003.log 

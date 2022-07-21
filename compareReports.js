@@ -37,6 +37,7 @@ const calcPercentageDiff = (without, withExtension) => {
   }
 };
 
+// without pode ser a versão anterior, para citério de comparação
 const compareReports = (without, withExtension) => {
 
   const metrics = Object.values(withExtension["audits"])
@@ -75,7 +76,7 @@ const structureData = (metrics) => {
 const postData = async (data) => {
   try {
     const response = await axios.post(CLOUD_TRIGGER, data);
-    console.log(response)
+    console.log(response.data)
   } catch (error) {
     console.log(error, "informações não conseguiram ser registradas");
   }

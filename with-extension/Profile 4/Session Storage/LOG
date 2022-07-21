@@ -1,3 +1,14 @@
-2022/06/13-19:09:00.773 5 Reusing MANIFEST /home/araujobarros/Meliuz/lighthouseAudit/with-extension/Profile 4/Session Storage/MANIFEST-000001
-2022/06/13-19:09:00.774 5 Recovering log #3
-2022/06/13-19:09:00.776 5 Reusing old log /home/araujobarros/Meliuz/lighthouseAudit/with-extension/Profile 4/Session Storage/000003.log 
+2022/07/21-18:44:43.750 3 Reusing MANIFEST /home/edson.araujo/Meliuz/lighthouseAudit/with-extension/Profile 4/Session Storage/MANIFEST-000001
+2022/07/21-18:44:43.763 3 Recovering log #22
+2022/07/21-18:44:43.764 3 Level-0 table #25: started
+2022/07/21-18:44:43.771 3 Level-0 table #25: 17770 bytes OK
+2022/07/21-18:44:43.774 3 Delete type=0 #22
+2022/07/21-18:44:43.774 5 Compacting 4@0 + 1@1 files
+2022/07/21-18:44:43.780 5 Generated table #27@0: 12 keys, 647 bytes
+2022/07/21-18:44:43.780 5 Compacted 4@0 + 1@1 files => 647 bytes
+2022/07/21-18:44:43.782 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/07/21-18:44:43.783 5 Delete type=2 #20
+2022/07/21-18:44:43.783 5 Delete type=2 #14
+2022/07/21-18:44:43.783 5 Delete type=2 #25
+2022/07/21-18:44:43.783 5 Delete type=2 #17
+2022/07/21-18:44:43.783 5 Delete type=2 #23

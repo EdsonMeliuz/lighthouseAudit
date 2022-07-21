@@ -1,3 +1,3 @@
-2022/06/13-15:24:53.630 a6f45 Reusing MANIFEST /home/araujobarros/Meliuz/lighthouseAudit/user-data-dir/System Profile/shared_proto_db/MANIFEST-000001
-2022/06/13-15:24:53.631 a6f45 Recovering log #3
-2022/06/13-15:24:53.631 a6f45 Reusing old log /home/araujobarros/Meliuz/lighthouseAudit/user-data-dir/System Profile/shared_proto_db/000003.log 
+2022/07/21-18:00:49.492 2922 Reusing MANIFEST /home/edson.araujo/Meliuz/lighthouseAudit/without-extension/System Profile/shared_proto_db/MANIFEST-000001
+2022/07/21-18:00:49.498 2922 Recovering log #3
+2022/07/21-18:00:49.498 2922 Reusing old log /home/edson.araujo/Meliuz/lighthouseAudit/without-extension/System Profile/shared_proto_db/000003.log 
